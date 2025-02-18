@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --daerk-blue : #17172bf3;
+  --blue : #1d1d31f3;
+  --white : #f4f4f9f3;
+}
+/* .HERO{
+  @media screen and (max-width: 667px) {
+    height: 1010px;
+  }
+} */
+.dark{
+background-color: var(--daerk-blue);
+color: white;
+ }
+ .blue{
+  background-color: var(--blue);
+  color: white;
+ }
