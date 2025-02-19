@@ -16,7 +16,7 @@ const Contact = () => {
                 <h1 className='text-6xl my-5'>Subscribe For Newsletter</h1>
                 </div>
                 <div className="my-20">
-                    <input placeholder='Madonna Mansour Helmy' className='w-[400px] h-[60px] rounded-[50px] p-4 bg-transparent mr-10 border border-collaps' type="text" /> 
+                    <input placeholder='Madonna Mansour Helmy' className='w-[380px] h-[60px] rounded-[50px] p-4 bg-transparent mr-10 border border-collaps' type="text" /> 
                     <button className='w-[170px] h-[60px] rounded-[50px] mt-7 border border-collaps hover:bg-gray-500'>Subscribe Now</button>
                 </div>
                 </div>
