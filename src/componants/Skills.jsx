@@ -9,7 +9,7 @@ const Skills = () => {
                 <h1 className='text-[60px] my-5'>My Special <b /> Skill Field Here.</h1>
              </div>
 
-             <div className="w-[70%] flex  flex-col ms-[50px] ">
+             <div className="w-[80%] flex  flex-col ms-[50px] ">
 
                 <div className="mb-10  bg-[#282846f3] p-5 ">
                 <div className="flex justify-between text-2xl ">
