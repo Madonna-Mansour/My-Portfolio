@@ -13,7 +13,7 @@ import time  from '../assets/time zone.png'
 
 const Projectss = [
     { id: 1, img: coffee , path:"https://coffee-teal-alpha.vercel.app/" },
-    { id: 2, img: rosaa , path: "https://new-home-six.vercel.app/"},
+    { id: 2, img: rosaa , path: "https://rosaa-virid.vercel.app/"},
     { id: 3, img: neww , path: "https://new-home-six.vercel.app/"},
     { id: 4, img: botiga , path: "https://botiga-xi.vercel.app/"},
     { id: 5, img: criativo , path: "https://criativo-livid.vercel.app/"},
