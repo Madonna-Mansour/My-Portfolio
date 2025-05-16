@@ -8,11 +8,13 @@ import khamsat from '../assets/khamsat.png'
 import land from '../assets/rosa-land.png'
 import time  from '../assets/time zone.png'
 import amazon  from '../assets/amazon.png'
+import shop  from '../assets/ShopEasy.png'
 
 
 
 
 const Projectss = [
+    { id: 11, img: shop , path:"https://shop-ease-eight-gamma.vercel.app/" },
     { id: 10, img: amazon , path:"https://amazon-theta-cyan.vercel.app/" },
     { id: 9, img: coffee , path:"https://coffee-teal-alpha.vercel.app/" },
     { id: 8, img: rosaa , path: "https://rosaa-virid.vercel.app/"},

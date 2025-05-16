@@ -5,10 +5,11 @@ const Skills = [
     { id: 2, title: "CSS" },
     { id: 3, title: "Java Script" },
     { id: 4, title: "React js" },
-    { id: 5, title: "Bootstrap" },
-    { id: 6, title: "Tailwind" },
-    { id: 7, title: "Vite" },
-    { id: 8, title: "Responsive Design" },
+    { id: 5, title: "Tailwind CSS" },
+    { id: 6, title: "Redux Toolkit" },
+    { id: 7, title: "Bootstrap" },
+    { id: 8, title: "Vite" },
+    { id: 9, title: "Responsive Design" },
 ];
 
 const Services = () => {
