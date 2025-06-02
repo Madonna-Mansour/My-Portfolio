@@ -4,12 +4,14 @@ const Skills = [
     { id: 1, title: "HTML" },
     { id: 2, title: "CSS" },
     { id: 3, title: "Java Script" },
-    { id: 4, title: "React js" },
-    { id: 5, title: "Tailwind CSS" },
-    { id: 6, title: "Redux Toolkit" },
-    { id: 7, title: "Bootstrap" },
-    { id: 8, title: "Vite" },
-    { id: 9, title: "Responsive Design" },
+    { id: 4, title: "React.js" },
+    { id: 5, title: "Next.js" },
+    { id: 6, title: "Tailwind CSS" },
+    { id: 7, title: "Redux Toolkit" },
+    { id: 8, title: "Bootstrap" },
+    { id: 9, title: "Axios" },
+    { id: 10, title: "Vite" },
+    { id: 11, title: "Responsive Design" },
 ];
 
 const Services = () => {

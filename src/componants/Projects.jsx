@@ -9,11 +9,13 @@ import land from '../assets/rosa-land.png'
 import time  from '../assets/time zone.png'
 import amazon  from '../assets/amazon.png'
 import shop  from '../assets/ShopEasy.png'
+import shein  from '../assets/shein.png'
 
 
 
 
 const Projectss = [
+    { id: 12, img: shein , path:"https://shein-eta.vercel.app/" },
     { id: 11, img: shop , path:"https://shop-ease-eight-gamma.vercel.app/" },
     { id: 10, img: amazon , path:"https://amazon-theta-cyan.vercel.app/" },
     { id: 9, img: coffee , path:"https://coffee-teal-alpha.vercel.app/" },
